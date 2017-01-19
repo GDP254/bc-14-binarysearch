@@ -21,3 +21,7 @@ If you have pytest installed simply run pytest else use the following command fr
 pip install -r requirements.txt
 
 If you would like to run without pytest simply run the file suffixed with _test
+
+**Note**
+
+For a sample of the logic behind part of the demonstration run python narrative.py
